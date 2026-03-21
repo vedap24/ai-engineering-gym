@@ -10,3 +10,4 @@ My sandbox for Python advanced concepts and DSA patterns.
 | **Day 2** | Prompt Engineering, JSON Parsing & Two Pointers | [View Day 2 Details](./day-02-prompting/) |
 | **Day 3** | Stateful Agent & Queue DSA | [View Day 3 Details](./day-03-memory/) |
 | **Day 4** | Function Calling Agent & Stack DSA | [View Day 4 Details](./day-04-tools/) |
+| **Day 5** | Basic RAG Script & Binary Search | [View Day 5 Details](./day-05-rag/) |
