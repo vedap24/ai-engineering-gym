@@ -12,3 +12,4 @@ My sandbox for Python advanced concepts and DSA patterns.
 | **Day 4** | Function Calling Agent & Stack DSA | [View Day 4 Details](./day-04-tools/) |
 | **Day 5** | Basic RAG Script & Binary Search | [View Day 5 Details](./day-05-rag/) |
 | **Day 6** | ChromaDB Vector Search & Linked Lists | [View Day 6 Details](./day-06-advanced-rag/) |
+| **Day 7** | Multi-Tool Agent & Binary Tree Depth | [View Day 7 Details](./day-07-agentic-rag/) |
