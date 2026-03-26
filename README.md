@@ -13,3 +13,4 @@ My sandbox for Python advanced concepts and DSA patterns.
 | **Day 5** | Basic RAG Script & Binary Search | [View Day 5 Details](./day-05-rag/) |
 | **Day 6** | ChromaDB Vector Search & Linked Lists | [View Day 6 Details](./day-06-advanced-rag/) |
 | **Day 7** | Multi-Tool Agent & Binary Tree Depth | [View Day 7 Details](./day-07-agentic-rag/) |
+| **Day 8** | Streamlit Web UI & BFS Level Order | [View Day 8 Details](./day-08-ui/) |
